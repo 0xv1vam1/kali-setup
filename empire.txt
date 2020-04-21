@@ -1,0 +1,9 @@
+# empire setup 
+
+cd /opt/tools
+git clone  https://github.com/EmpireProject/Empire.git -b dev
+sudo apt install libssl-dev swig python3-dev gcc python-dev
+sudo pip install flask pyopenssl netifaces m2crypto pefile
+cd Empire
+sudo ./setup/install.sh
+sudo ./empire
