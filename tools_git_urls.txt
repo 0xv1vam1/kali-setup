@@ -1,0 +1,8 @@
+# tools git urls
+
+git clone https://github.com/tmux-plugins/tmux-logging
+git clone https://github.com/AonCyberLabs/Windows-Exploit-Suggester.git
+git clone https://github.com/besimorhino/powercat.git
+git clone https://github.com/samratashok/nishang.git
+git clone https://github.com/rasta-mouse/Sherlock.git
+git clone https://github.com/swisskyrepo/PayloadsAllTheThings.git
