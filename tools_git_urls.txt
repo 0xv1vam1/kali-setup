@@ -6,3 +6,8 @@ git clone https://github.com/besimorhino/powercat.git
 git clone https://github.com/samratashok/nishang.git
 git clone https://github.com/rasta-mouse/Sherlock.git
 git clone https://github.com/swisskyrepo/PayloadsAllTheThings.git
+git clone https://github.com/jivoi/pentest.git
+git clone https://github.com/trustedsec/unicorn.git
+git clone https://github.com/411Hall/JAWS.git
+git clone https://github.com/rebootuser/LinEnum.git
+git clone https://github.com/mzet-/linux-exploit-suggester.git
