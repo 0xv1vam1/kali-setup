@@ -1,0 +1,5 @@
+cd /usr/share/xfce4/terminal/colorschemes/
+
+sudo wget https://raw.githubusercontent.com/nthirtyone/mariana-scheme/master/mariana.theme -O mariana.theme
+
+sudo wget https://raw.githubusercontent.com/arcticicestudio/nord-xfce-terminal/develop/src/nord.theme -O nord.theme
